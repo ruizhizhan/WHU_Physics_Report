@@ -3,7 +3,7 @@
 %% Version 1.0, Edit Time:03-25-2021, Writer:snowflakes
 %% -----------------------------------------------------------------------------------
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{test}
+\ProvidesClass{Physics_Report}
 
 %% ---- Load Class ---- %%
 \LoadClass[a4paper,12pt]{article}% A4 size, article type
